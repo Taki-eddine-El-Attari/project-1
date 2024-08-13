@@ -1,0 +1,4 @@
+tst.txt
+*.exe
+!imp.exe
+node/
