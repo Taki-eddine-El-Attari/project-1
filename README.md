@@ -20,5 +20,4 @@ git add
 
 ### Ex Video :
 
-[![Click on me](https://github.com/user-attachments/assets/2249b2f1-de57-4729-8429-8b9fdfdcbca3)](https://www.youtube.com/@TakiEddineFM)
 [<img src="https://github.com/user-attachments/assets/2249b2f1-de57-4729-8429-8b9fdfdcbca3" width="50%">](https://www.youtube.com/@TakiEddineFM)
